@@ -1,3 +1,3 @@
 Resource
-###
-![](https://komarev.com/ghpvc/?username=resource)
+##
+![](https://komarev.com/ghpvc/?username=resource-readme)
